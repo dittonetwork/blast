@@ -16,6 +16,8 @@
 
 ## Getting started
 
+Refer to the deployed instance at [testnet](https://testnet.blastscan.io/address/0xF03C8CaB74b5721eB81210592C9B06f662e9951E/contract/168587773/writeProxyContract).
+
 First, download repository:
 
 ```bash
