@@ -23,8 +23,8 @@ And please, enjoy!
 First, download repository:
 
 ```bash
-git clone https://github.com/dittonetwork/ditto-audit
-cd ditto-audit
+git clone https://github.com/dittonetwork/blast-contracts
+cd blast-contracts
 ```
 
 Install dependencies:
